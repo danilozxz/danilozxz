@@ -1,70 +1,41 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/754bb0c7-ac64-43ce-81c7-d7107de60da4"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é Danilo Fernandes</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=900&height=150&lines=Ol%C3%A1%2C+me+chamo+Danilo+Fernandes;Tenho+22+anos;Sou+desenvolvedor+Fullstack)](https://git.io/typing-svg)
+- 👨🏻‍💻 Desenvolvedor de Software Full-Stack
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danilozxz&theme=dark&hide_border=true&locale=pt_BR&card_width=1000&fire=64C8FA&currStreakNum=64C8FA&currStreakLabel=64C8FA&ring=64C8FA&stroke=64C8FA&sideNums=64C8FA&sideLabels=64C8FA&dates=64C8FA&excludeDaysLabel=64C8FA)](https://git.io/streak-stats)
+- 📚 Cursando Sistemas Para Internet (5/5) e Ciência da Computação (1/8)
 
+- 🚀 Fazendo residência tecnológica no Porto Digital
+
+- 🔥 Apaixonado por tecnologia e com sede de apredizado
+
+
+<div align="left">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilozxz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />  
 </div>
 
-<br/>
-<br/>
+## &nbsp;Minha Stack
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-181717?style=flat-square&logo=Vite)
 
-<div align="center">
-<a  href="https://www.linkedin.com/in/dev-danilo-fernandes/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/d94e70e7-c04f-4ec6-b2c6-e59904be9a8f">
-</a>
+#
 
-  
-<a href="https://instagram.com/danilofernandesz" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/3a9d3e85-903f-4a4b-92b0-c9bcc81f3c71">
-</a>
-
-
+<h3>Entre em contato comigo</h3>
+<div align="left">
+<p>
 <a href="mailto:progdanilo@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/8a3d98f4-7eaf-4975-b1c1-83d1192f3584">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
 </a>
-
+<a href="https://www.linkedin.com/in/dev-danilo-fernandes"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 </div>
 
-<br/>
-<br/>
-
-### Principais habilidades:
-<div align="left"> 
-  
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/fe01d5bc-d313-43c9-ba4f-d2d43178bc7c">
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/f839edc1-04ec-4a7e-b44a-657a3e9c3a38">
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/fcda5d01-f105-4aa6-a778-4b776d7aad14">
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/776ee357-2bf9-4e3c-bd8b-4743c8752a79">
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/eecb337e-c0fd-4b22-90d2-f263663d2b6b">
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/45187e3e-26b3-4ca8-9488-79b43c41bf2c">
-
-</div>
-
-<br>
-<br> 
-<br>
-<br> 
-<br>
-<br>
-
-<h2 align="left"> Estudando no momento: </h2>
-<div align="left"> 
-
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/776ee357-2bf9-4e3c-bd8b-4743c8752a79">
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/eecb337e-c0fd-4b22-90d2-f263663d2b6b">
-
-
-</div>
-
-
-<br/>
-<br/> 
-<br/> 
-<br/>
-<br/> 
-
-
-<img width=100% src="https://github.com/user-attachments/assets/462819a0-afb6-4f46-842e-fbd96d847535"/>
